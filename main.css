@@ -10,3 +10,63 @@
   margin: 0 auto;  
   width: 720px;
 }
+
+h2 {
+  margin:0;
+}
+
+#tour {
+  padding:20px;
+}
+
+.section {
+  height: 500px;
+  padding:20px;
+  margin:0;
+}
+
+#tour{
+  background-color: #E6E6E0;
+}
+
+#pricing {
+  background-color: #D8D8E8;
+
+}
+
+#about {
+  background-color: #E6E6E0;
+}
+
+#contact {
+  background-color: #D8D8E8;
+}
+
+#buzz {
+  background-color: #D8D8E8;
+  padding:20px;
+}
+.pricing-item {
+  display:inline-block;
+  margin:30px;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd{
+  margin-left: 5px;
+}
+
+/*dl {
+  padding:0; 
+list-style-type: disc; 
+list-style-position: inside; 
+margin: 0px; 
+clear: none; 
+width: auto; 
+display: inline; 
+}*/
+
+
